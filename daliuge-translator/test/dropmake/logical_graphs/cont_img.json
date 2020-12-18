@@ -1456,86 +1456,6 @@
                     "description": "",
                     "readonly": false,
                     "type": "Unknown"
-                },
-                {
-                    "text": "Arg 01",
-                    "name": "Arg01",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 02",
-                    "name": "Arg02",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 03",
-                    "name": "Arg03",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 04",
-                    "name": "Arg04",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 05",
-                    "name": "Arg05",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 06",
-                    "name": "Arg06",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 07",
-                    "name": "Arg07",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 08",
-                    "name": "Arg08",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 09",
-                    "name": "Arg09",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 10",
-                    "name": "Arg10",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
                 }
             ],
             "inputAppFields": [],
@@ -2102,86 +2022,6 @@
                     "description": "",
                     "readonly": false,
                     "type": "Unknown"
-                },
-                {
-                    "text": "Arg 01",
-                    "name": "Arg01",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 02",
-                    "name": "Arg02",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 03",
-                    "name": "Arg03",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 04",
-                    "name": "Arg04",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 05",
-                    "name": "Arg05",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 06",
-                    "name": "Arg06",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 07",
-                    "name": "Arg07",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 08",
-                    "name": "Arg08",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 09",
-                    "name": "Arg09",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
-                },
-                {
-                    "text": "Arg 10",
-                    "name": "Arg10",
-                    "value": "",
-                    "description": "",
-                    "readonly": false,
-                    "type": "Unknown"
                 }
             ],
             "inputAppFields": [],
@@ -2699,11 +2539,11 @@
             "width": 200,
             "height": 200,
             "collapsed": false,
-            "showPorts": false,
+            "showPorts": true,
             "flipPorts": false,
             "streaming": false,
             "subject": null,
-            "selected": false,
+            "selected": true,
             "expanded": false,
             "inputPorts": [],
             "outputPorts": [
@@ -2741,11 +2581,11 @@
             "width": 200,
             "height": 200,
             "collapsed": false,
-            "showPorts": true,
+            "showPorts": false,
             "flipPorts": false,
             "streaming": false,
             "subject": null,
-            "selected": true,
+            "selected": false,
             "expanded": false,
             "group": -57,
             "inputPorts": [],
