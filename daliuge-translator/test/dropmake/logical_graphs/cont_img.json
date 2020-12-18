@@ -316,11 +316,11 @@
             "width": 200,
             "height": 200,
             "collapsed": false,
-            "showPorts": false,
+            "showPorts": true,
             "flipPorts": false,
             "streaming": false,
             "subject": null,
-            "selected": false,
+            "selected": true,
             "expanded": false,
             "group": -57,
             "inputPorts": [
@@ -337,7 +337,16 @@
             ],
             "inputLocalPorts": [],
             "outputLocalPorts": [],
-            "fields": [],
+            "fields": [
+                {
+                    "text": "Arg10",
+                    "name": "arg10",
+                    "value": "",
+                    "description": "",
+                    "readonly": false,
+                    "type": "Unknown"
+                }
+            ],
             "inputAppFields": [],
             "inputApplicationName": "",
             "inputApplicationType": "None",
@@ -689,7 +698,16 @@
             ],
             "inputLocalPorts": [],
             "outputLocalPorts": [],
-            "fields": [],
+            "fields": [
+                {
+                    "text": "Arg10",
+                    "name": "arg10",
+                    "value": "",
+                    "description": "",
+                    "readonly": false,
+                    "type": "Unknown"
+                }
+            ],
             "inputAppFields": [],
             "inputApplicationName": "",
             "inputApplicationType": "None",
@@ -2022,6 +2040,14 @@
                     "description": "",
                     "readonly": false,
                     "type": "Unknown"
+                },
+                {
+                    "text": "Arg10",
+                    "name": "arg10",
+                    "value": "",
+                    "description": "",
+                    "readonly": false,
+                    "type": "Unknown"
                 }
             ],
             "inputAppFields": [],
@@ -2382,6 +2408,14 @@
                     "description": "",
                     "readonly": false,
                     "type": "Unknown"
+                },
+                {
+                    "text": "Arg10",
+                    "name": "arg10",
+                    "value": "",
+                    "description": "",
+                    "readonly": false,
+                    "type": "Unknown"
                 }
             ],
             "inputAppFields": [],
@@ -2539,11 +2573,11 @@
             "width": 200,
             "height": 200,
             "collapsed": false,
-            "showPorts": true,
+            "showPorts": false,
             "flipPorts": false,
             "streaming": false,
             "subject": null,
-            "selected": true,
+            "selected": false,
             "expanded": false,
             "inputPorts": [],
             "outputPorts": [
